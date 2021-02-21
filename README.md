@@ -1,8 +1,8 @@
-# Assignment-2-465820
+# 
 
-#  CSE427S- Cloud Computing and Big Data Applications
+#
 
-***Lab 2***
+***Lab***
 
 For this lab, we will learn about Docker Containers and Images.
 We will dockerize the previous application :)
